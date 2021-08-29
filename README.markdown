@@ -10,6 +10,6 @@ Skills: React, JSX, Components
 
 Tools:  CodePen, Props, State
 
-URL: [https://codepen.io/lilyyee/pen/gORpGaL](https://codepen.io/lilyyee/pen/gORpGaL).
+https://codepen.io/lilyyee/pen/gORpGaL
 
 
